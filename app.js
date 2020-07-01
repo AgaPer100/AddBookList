@@ -46,6 +46,7 @@ class UI {
 //Store Class: handle storage
 
 //Event: display books
+document.addEventListener('DOMContentLoaded', UI.displayBooks);
 
 //Event: add a book
 
